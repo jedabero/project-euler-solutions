@@ -35,4 +35,4 @@ function largestPalindromeMadeFromProductOfTwoNDigitNumbers(digits) { // Brute F
 
 console.log(2, largestPalindromeMadeFromProductOfTwoNDigitNumbers(2));
 console.log(3, largestPalindromeMadeFromProductOfTwoNDigitNumbers(3));
-// console.log(4, largestPalindromeMadeFromProductOfTwoNDigitNumbers(4));
+console.log(4, largestPalindromeMadeFromProductOfTwoNDigitNumbers(4));
